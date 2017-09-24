@@ -79,3 +79,7 @@ This project was designed to answer 3 questions about a fictional news website's
 1. What are the most popular three articles of all time?
 2. Who are the most popular article authors of all time?
 3. On which days did more than 1% of requests lead to errors?
+
+## MENTION
+Did have trouble with the createviews.sql file, got help from a professor. This helped me clean up my logs.py file as well.
+Clean up of logs.py isn't documented on my gitHub as the bash shell wouldn't push with the vagrant files in it.
